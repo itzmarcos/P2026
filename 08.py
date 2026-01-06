@@ -1,8 +1,13 @@
+# Valores únicos em uma Lista
+
 valores = list()
 while True:
-    valores.append(int(input('Digite um valor: ')))
-    print('Valor adiciona com sucesso...')
-    if valores == valores:
+    valor = int(input('Digite um valor: '))
+    
+    if valor not in valores:
+        valores.append(valor)
+        print('Valor adiciona com sucesso...')
+    else:
         print('Valor duplicado! Não vou adicionar...')
     resp = ' '
     while resp not in "SN":
