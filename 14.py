@@ -1,12 +1,15 @@
 # Listas com pares e ímpares
-valores = []
+valores = [[], []]
+pares = 0
+impares = 0
 for v in range(1, 8):
     valor = (int(input(f'Digite o {v} valor: ')))
-    valores.append(valor)
     if valor % 2 == 0:
-        valores.append(valor)
+        valores[0].append(valor)
     if valor % 2 == 1:
-        valores.append(valor)
-
-
-print(valores)
+        valores[1].append(valor)
+    
+valores[1].sort()
+valores[0].sort()
+print(f'Os valores pares foram: {valores[0]}')
+print(f'Os valores impares foram: {valores[1]}')
