@@ -9,7 +9,7 @@ dados['carteira'] = int(input('Carteira de Trabalho (0 não tem): '))
 if dados['carteira'] != 0:
     dados['contrato'] = int(input('Ano de Contratação: '))
     dados['salario'] = int(input('Salario: R$'))
-    dados['aposentadoria'] = dados['idade'] + 35
+    dados['aposentadoria'] = dados['idade'] + ((dados['contrato'] + 35 )) - datetime.now().year
 
 for k, v in dados.items():
     print(f'- {k} tem o valor {v}')
