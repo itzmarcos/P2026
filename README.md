@@ -33,3 +33,15 @@
 17 - Palpites para a Mega Sena
 
 18 - Boletim com listas compostas
+
+19 - Dicionário em Python
+
+20 - Jogo de Dados em Python
+
+21 - Cadastro de Trabalhador em Python
+
+22 - Cadastro de Jogador de Futebol
+
+23 - Unindo dicionários e listas
+
+24 - Aprimorando os Dicionários
