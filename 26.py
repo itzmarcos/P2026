@@ -1,8 +1,10 @@
-#
+# Um print especial
+
 def escreva():
-    print('-=' * len(n))
-    print(f'{n}')
-    print('-=' * len(n))
+    tam = len(n)
+    print('-=' * tam)
+    print(f'    {n}')
+    print('-=' * tam)
 
 n = str(input('Escreva: '))
 
