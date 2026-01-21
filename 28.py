@@ -1,10 +1,26 @@
 # Função que descobre o maior
-import random
+from time import sleep
 
-def valores(* num):
-    
+def maior(* num):
+    cont = maior = 0   
     print('Analisando os valores passados...')
-    print(f'{num} Foram informados {len(num)} valores ao todo')
+    for valor in num:
+        print(f'{valor} ', end='', flush=True)
+        sleep(0.5)
+        if cont == 0:
+            maior = valor
+        else:
+            if valor > maior:
+                maior = valor
+        cont += 1
+    print(f'Foram informados {cont} valores ao todo')
+    print(f'O maior valor informado foi {maior}')
+    
+    
+    
 
-valores(2, 9, 4, 5, 7, 1)
-valores(4, 7, 0)
+
+maior(2, 9, 4, 5, 7, 1)
+maior(4, 7, 0)
+maior(6)
+maior()
