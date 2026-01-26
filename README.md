@@ -45,3 +45,19 @@
 23 - Unindo dicionários e listas
 
 24 - Aprimorando os Dicionários
+
+25 - Função que calcula área
+
+26 - Um print especial
+
+27 - Função de Contador
+
+28 - Função que descobre o maior
+
+29 - Funções para sortear e somar
+
+30 - Funções para votação
+
+31 - Função para Fatorial
+
+32 - Ficha do Jogador

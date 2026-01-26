@@ -1,4 +1,4 @@
-#
+# Ficha do Jogador
 
 
 def jogador(gol=0, nome=0):
