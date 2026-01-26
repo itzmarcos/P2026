@@ -1,11 +1,16 @@
 # Ficha do Jogador
 
+def jogador(n='<desconhecido>', g=0):
+    
+    print(f'O jogador {n} fez {g} gol(s) no campeonato.')
 
-def jogador(gol=0, nome=0):
-    nome = (input('Nome do jogador: '))
-    gol = (input('Numero de Gols: '))
-    if nome != str:
-        nome = '<desconhecido>'
-    print(f'O jogador {nome} fez {gol} gol(s) no campeonato.')
-
-jogador()
+nome = str(input('Nome do jogador: ')).strip()
+gol = str(input('Numero de gols: '))
+if gol.isnumeric():
+    gol = int(gol)
+else:
+    gol = 0
+if nome.strip() == '':
+    jogador(g=gol)
+else:
+    jogador(nome, gol)
