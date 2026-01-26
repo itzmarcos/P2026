@@ -1,4 +1,4 @@
-# Listas com pares e ímpares
+# Listas com pares e ímpares.
 valores = [[], []]
 pares = 0
 impares = 0

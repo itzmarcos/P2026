@@ -1,4 +1,4 @@
-# Palpites para a Mega Sena
+# Palpites para a Mega Sena.
 import random
 from random import randint
 from time import sleep

@@ -1,4 +1,4 @@
-# Valores únicos em uma Lista
+# Valores únicos em uma Lista.
 
 valores = list()
 while True:

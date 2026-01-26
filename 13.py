@@ -1,4 +1,4 @@
-# Lista composta e análise de dados
+# Lista composta e análise de dados.
 
 pessoas = []
 dados = []

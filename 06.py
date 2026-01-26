@@ -1,4 +1,4 @@
-# Contando vogais em Tupla
+# Contando vogais em Tupla.
 
 lista = ('caderno', 'legal', 'felicidade', 'ano', 'alegria')
 

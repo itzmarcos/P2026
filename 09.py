@@ -1,4 +1,4 @@
-# Lista ordenada sem repetições
+# Lista ordenada sem repetições.
 
 valores = list()
 for v in range(0, 3):

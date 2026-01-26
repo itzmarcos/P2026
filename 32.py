@@ -1,4 +1,4 @@
-# Ficha do Jogador
+# Ficha do Jogador.
 
 def jogador(n='<desconhecido>', g=0):
     

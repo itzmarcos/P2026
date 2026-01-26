@@ -1,4 +1,4 @@
-# Um print especial
+# Um print especial.
 
 def escreva():
     tam = len(n)

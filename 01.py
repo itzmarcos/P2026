@@ -1,4 +1,4 @@
-# Número por Extenso
+# Número por Extenso.
 
 cont = ('zero', 'um', 'dois', 'tres', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez')
 

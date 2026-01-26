@@ -1,4 +1,4 @@
-# Tuplas com Times de Futebol
+# Tuplas com Times de Futebol.
 
 tabela = ('Flamengo', 'Palmeiras', 'Cruzeiro', 'Mirassol', 'Fluminense', 'Botafogo', 'Bahia', 'São Paulo', 'Gremio', 'Bragantino', 'Atletico-MG', 'Santos', 'Cotinthians', 'Vasco', 'Vitoria', 'Internacional', 'Ceara', 'Fortaleza', 'Juventude', 'Sport Recife')
 

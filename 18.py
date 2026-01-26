@@ -1,4 +1,4 @@
-# Boletim com listas compostas
+# Boletim com listas compostas.
 notas = []
 
 while True:

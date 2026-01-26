@@ -1,4 +1,4 @@
-# Análise de dados em uma Tupla
+# Análise de dados em uma Tupla.
 
 num = (int(input('Digite um numero: ')),
        int(input('Digite um numero: ')),

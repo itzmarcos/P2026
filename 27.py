@@ -1,4 +1,4 @@
-# Função de Contador
+# Função de Contador.
 
 from time import sleep
 # def contador(inicio, fim, passo):

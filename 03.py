@@ -1,4 +1,4 @@
-# Maior e menor valores em Tupla
+# Maior e menor valores em Tupla.
 
 from random import randint
 # maior = menor = 0

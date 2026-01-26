@@ -1,4 +1,4 @@
-# Aprimorando os Dicionários
+# Aprimorando os Dicionários.
 jogadores = list()
 jogador = dict()
 partidas = list()

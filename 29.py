@@ -1,4 +1,4 @@
-# Funções para sortear e somar
+# Funções para sortear e somar.
 from random import randint 
 def sortear(lista):
     print('Sorteando 5 valores da lista: ', end='')

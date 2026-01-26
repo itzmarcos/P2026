@@ -1,4 +1,4 @@
-# Dicionário em Python
+# Dicionário em Python.
 dados = dict()
 nota = []
 dados['nome'] = str(input('Nome: '))

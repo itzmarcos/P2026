@@ -1,4 +1,4 @@
-# Cadastro de Trabalhador em Python
+# Cadastro de Trabalhador em Python.
 from datetime import datetime
 data = datetime.now().year
 dados = dict()

@@ -1,4 +1,4 @@
-# Função para Fatorial
+# Função para Fatorial.
 def fatorial(n=0, show=False):
     """
     -> Calcula o Fatorial de um número.

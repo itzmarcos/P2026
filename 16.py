@@ -1,4 +1,4 @@
-# MATRIZ
+# MATRIZ.
 par = col = maior = 0
 matriz = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
 for l in range(0, 3):

@@ -1,4 +1,4 @@
-# Cadastro de Jogador de Futebol
+# Cadastro de Jogador de Futebol.
 dados = dict()
 gols = list()
 soma = 0

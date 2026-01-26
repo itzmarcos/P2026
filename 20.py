@@ -1,4 +1,4 @@
-# Jogo de Dados em Python
+# Jogo de Dados em Python.
 from random import randint
 from time import sleep
 from operator import itemgetter

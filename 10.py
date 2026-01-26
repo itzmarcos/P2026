@@ -1,4 +1,4 @@
-# Extraindo dados de uma Lista
+# Extraindo dados de uma Lista.
 cont = 0
 lista = []
 while True:

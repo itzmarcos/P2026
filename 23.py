@@ -1,4 +1,4 @@
-# Unindo dicionários e listas
+# Unindo dicionários e listas.
 dados = dict()
 info = list()
 media = soma = 0

@@ -1,4 +1,4 @@
-# Função que descobre o maior
+# Função que descobre o maior.
 from time import sleep
 
 def maior(* num):

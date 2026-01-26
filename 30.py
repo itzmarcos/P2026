@@ -1,4 +1,4 @@
-# Funções para votação
+# Funções para votação.
 def voto(ano):
     from datetime import datetime
     atual = datetime.now().year

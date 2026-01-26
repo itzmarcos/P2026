@@ -1,4 +1,4 @@
-#  Maior e Menor valores na Lista
+#  Maior e Menor valores na Lista.
 
 maior = menor = cont = 0
 valores = list()

@@ -1,4 +1,4 @@
-# Dividindo valores em várias listas
+# Dividindo valores em várias listas.
 
 lista = []
 pares = []
