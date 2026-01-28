@@ -1,4 +1,4 @@
-#
+# Analisando e gerando Dicionários
 def notas(*num, sit):
    r = dict()
    r['total'] = len(num)
