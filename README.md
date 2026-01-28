@@ -61,3 +61,9 @@
 31 - Função para Fatorial
 
 32 - Ficha do Jogador
+
+33 - Validando entrada de dados em Python
+
+34 - Analisando e gerando Dicionários
+
+35 - Sistema interativo de ajuda em Python

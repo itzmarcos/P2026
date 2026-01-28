@@ -1,4 +1,4 @@
-#
+# Sistema interativo de ajuda em Python.
 from time import sleep
 c = ('\033[m',
      '\033[0;30;41m', # 0 - sem cores

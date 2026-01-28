@@ -1,4 +1,4 @@
-# Validando entrada de dados em Python
+# Validando entrada de dados em Python.
 def leiaInt(mensagem):
     while True:
         valor = input(mensagem)
